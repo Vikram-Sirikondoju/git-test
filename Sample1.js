@@ -1,1 +1,1 @@
-console.log("Sample1")
+console.log("Sample1 Data")
